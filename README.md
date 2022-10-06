@@ -1,2 +1,3 @@
 # UML Diagram of *GroceryProductFactory*
-![GroceryProductFactory_UML](https://user-images.githubusercontent.com/115104826/194373979-9ab31c33-dee6-4536-8a09-b669901ddbd5.png)
+![Untitled Diagram drawio (4)](https://user-images.githubusercontent.com/115104826/194376644-488d1f70-8629-4058-980b-d7ed0813bd38.png)
+
