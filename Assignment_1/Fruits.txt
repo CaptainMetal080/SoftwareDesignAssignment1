@@ -1,0 +1,8 @@
+Green Apple
+1.99
+Red Apple
+1.79
+Medium Banana
+2.10
+Small Banana
+1.50
